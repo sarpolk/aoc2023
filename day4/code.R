@@ -15,12 +15,7 @@ points <- lapply(data, function(x){
   if(match == 0){
     p <- 0
   } else if(match >= 1){
-    i <- 1
-    p <- 1
-    while(i < match){
-      p <- p * 2
-      i <- i + 1
-    }
+    p <- 2 ^ (match - 1)
   }
   return(p)
 })
