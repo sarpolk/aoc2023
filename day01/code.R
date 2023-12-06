@@ -1,9 +1,9 @@
 ## advent of code 2023
 ## day 1
 
-# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day1/test.txt"))
+# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day01/test.txt"))
 
-data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day1/data.txt"))
+data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day01/data.txt"))
 
 # part 1
 listNum <- lapply(data, function(x){

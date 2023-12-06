@@ -1,10 +1,10 @@
 ## advent of code 2023
 ## day 3
 
-# test <- matrix(readLines("/Users/polks/Desktop/misc/aoc2023/day3/test.txt"))
+# test <- matrix(readLines("/Users/polks/Desktop/misc/aoc2023/day03/test.txt"))
 # data <- test
 
-data <- matrix(readLines("/Users/polks/Desktop/misc/aoc2023/day3/data.txt"))
+data <- matrix(readLines("/Users/polks/Desktop/misc/aoc2023/day03/data.txt"))
 
 # part 1
 lengthRow <- nchar(data[1])

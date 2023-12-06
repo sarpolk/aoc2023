@@ -1,10 +1,10 @@
 ## advent of code 2023
 ## day 4
 
-# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day4/test.txt"))
+# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day04/test.txt"))
 # data <- test
 
-data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day4/data.txt"))
+data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day04/data.txt"))
 
 # part 1
 points <- lapply(data, function(x){

@@ -1,10 +1,10 @@
 ## advent of code 2023
 ## day 2
 
-# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day2/test.txt"))
+# test <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day02/test.txt"))
 # data <- test
 
-data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day2/data.txt"))
+data <- as.list(readLines("/Users/polks/Desktop/misc/aoc2023/day02/data.txt"))
 
 # part 1
 # The Elf would first like to know which games would have been possible if the
